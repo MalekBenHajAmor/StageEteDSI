@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/microservices-resto-app.iml" filepath="$PROJECT_DIR$/.idea/microservices-resto-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent-project/reservation-ms/reservation.iml" filepath="$PROJECT_DIR$/parent-project/reservation-ms/reservation.iml" />
+    </modules>
+  </component>
+</project>
